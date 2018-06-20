@@ -51,4 +51,4 @@ val9 = reverse[5,4,3,2,1]
 
 -- | take x, takes the first x elements in the list
 val10 = take 3 [5,4,3,2,1] -- | [5,4,3]
--- | drop x, drops the first x elements in the list 
+-- | drop x, drops the first x elements in the list
